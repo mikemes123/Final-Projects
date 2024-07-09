@@ -1,0 +1,405 @@
+.logo {
+    font-family: "Lakki Reddy", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 100px;
+    position: relative;
+    bottom: 750px;
+    right: 50px;
+    color: rgb(33, 128, 229);
+  }
+  
+body{
+    margin: 75px;
+    background-color: rgba(50, 50, 50, 0.91);
+    height: 20px;
+    
+}
+.header{
+    font-size: 75px;
+    font-family: serif;
+    color: black;
+    text-align: center;
+
+}
+.caption{
+    font-size: x-large;
+    font-family: serif;
+    color: rgba(108, 108, 108, 0.978);
+    position: relative;
+    text-align: center;
+    
+    
+}
+.text{
+    font-size: 20px;
+    text-align: center;
+    word-spacing: 10px;
+    
+}
+.monkey{
+    position: relative;
+    right: -1030px;
+    bottom: 450px;
+    width: 200px;
+}
+.about-button{
+    background-color: rgb(83, 114, 219);
+    position: relative;
+    width: 300px;
+    height: 90px;
+    font-size: 30px;
+    border: none;
+    bottom: 500px;
+}
+input[type=text], select, textarea {
+    background-color: black;
+    color: white;
+    width: 100%; /* Full width */
+    padding: 12px; /* Some padding */ 
+    border: 1px solid #ffffff; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 6px; /* Add a top margin */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+  }
+  
+  /* Style the submit button with a specific background color etc */
+  input[type=submit] {
+    background-color: #04AA6D;
+    color: rgb(0, 0, 0);
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  /* When moving the mouse over the submit button, add a darker green color */
+  input[type=submit]:hover {
+    background-color: rgb(83, 114, 219);
+  }
+  
+  /* Add a background color and some padding around the form */
+  .container {
+    color: black;
+    border-radius: 5px;
+    background-color: #6b6767;
+    padding: 20px;
+    position: relative;
+    bottom: 550px;
+  }
+  .monkeycontact{
+    position: relative;
+    right: -1150px;
+    bottom: 210px;
+    width: 200px;
+  }
+  .logocontact {
+    font-family: "Lakki Reddy", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 100px;
+    position: relative;
+    bottom: 500px;
+    right: 50px;
+    color: rgb(33, 128, 229);
+  }
+   .home-page{
+    background-color: rgb(83, 114, 219);
+    position: relative;
+    width: 300px;
+    height: 90px;
+    font-size: 30px;
+    border: none;
+    bottom: 1000px;
+   }
+  .our-motives{
+    background-color: rgb(83, 114, 219);
+    position: relative;
+    width: 300px;
+    height: 90px;
+    font-size: 30px;
+    border: none;
+    bottom: 500px;
+  }
+  .contact{
+    background-color: rgb(83, 114, 219);
+    position: relative;
+    width: 300px;
+    height: 90px;
+    font-size: 30px;
+    border: none;
+    bottom: 500px;
+  }
+  .monkeyabout{
+    position: relative;
+    right: -1100px;
+    bottom: 350px;
+    width: 200px;
+}
+.logoabout{
+    font-family: "Lakki Reddy", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 100px;
+    position: relative;
+    bottom: 650px;
+    right: 50px;
+    color: rgb(33, 128, 229);
+  }
+  .waves{
+    position: relative;
+    right: -1000px;
+    bottom: 900px;
+
+  }
+.abouttext{
+    text-align: center;
+    width: 1000px;
+    height:50px;
+    font-size: 1px;
+    word-spacing: 30px;
+    font-size: 28px;
+    padding-left: 20px;
+    
+
+}
+.abouttext2{
+  text-align: center;
+  width: 1000px;
+  height:50px;
+  font-size: 20px;
+  word-spacing: 25px;
+  
+}
+.monkeyservice{
+  position: relative;
+  right: -1150px;
+  bottom: 850px;
+  width: 200px;
+
+}
+.waves2{
+  position: relative;
+  right:-800px;
+  bottom: 300px;
+}
+.contactabout{
+  background-color: rgb(83, 114, 219);
+  position: relative;
+  width: 300px;
+  height: 90px;
+  font-size: 30px;
+  border: none;
+  bottom: 1090px;
+  right: -135px;
+}
+.line{
+  position: relative;
+  bottom: 100px;
+  width: 50000px;
+  left: -200px
+}
+.line2{
+  position: relative;
+  bottom: 340px;
+  width: 50000px;
+  
+  left: -200px;
+  
+}
+.page{
+  background-origin: padding-box;
+  border: #ffffff;
+}
+.lineservice{
+position: relative;
+bottom: 200px;
+width: 50000px;
+left: -300px;
+
+}
+.line2service{
+  position: relative;
+  
+  width: 50000px;
+  left: -300px;
+}
+.logoservice{
+  font-family: "Lakki Reddy", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 100px;
+  position: relative;
+  bottom: 1080px;
+  right: 50px;
+  color: rgb(33, 128, 229);
+}
+.linecontact{
+  position: relative;
+  bottom: -240px;
+  width: 50000px;
+  left: -300px;
+}
+.line2contact{
+  position: relative;
+  bottom: -10px;
+  width: 50000px;
+  left: -300px;
+}
+.linewelcome{
+  position: relative;
+  bottom: 500px;
+  width: 50000px;
+  left: -300px;
+}
+.line2welcome{
+  position: relative;
+  bottom: 800px;
+  width: 50000px;
+  left: -300px;
+}
+.line3welcome{
+  position: relative;
+  bottom: 1005px;
+  width: 50000px;
+  left: -300px;
+}
+.line3service{
+  position: relative;
+  bottom: -400px;
+  width: 50000px;
+  left: -300px;
+}
+.line3contact{
+  position: relative;
+  bottom: -790px;
+  width: 50000px;
+  left: -300px;
+}
+.line3{
+  position: relative;
+  bottom: -200px;
+  width: 50000px;
+  left: -300px;
+}
+.headerabout{
+  font-size: 75px;
+  font-family: serif;
+  color: black;
+  text-align: center;
+}
+.captionabout{
+  font-size: x-large;
+  font-family: serif;
+  color: rgba(108, 108, 108, 0.978);
+  position: relative;
+  text-align: center;
+}
+.captioncontact{
+  font-size: x-large;
+  font-family: serif;
+  color: rgba(108, 108, 108, 0.978);
+  position: relative;
+  text-align: center;
+}
+.headercontact{
+  font-size: 75px;
+  font-family: serif;
+  color: black;
+  text-align: center;
+}
+.headerservice{
+  font-size: 75px;
+  font-family: serif;
+  color: black;
+  text-align: center;
+}
+.captionservice{
+  font-size: x-large;
+  font-family: serif;
+  color: rgba(108, 108, 108, 0.978);
+  position: relative;
+  text-align: center;
+}
+.home-pageabout{
+  background-color: rgb(83, 114, 219);
+  position: relative;
+  width: 300px;
+  height: 90px;
+  font-size: 30px;
+  border: none;
+  bottom: 500px;
+}
+.our-motivesabout{
+  background-color: rgb(83, 114, 219);
+  position: relative;
+  width: 300px;
+  height: 90px;
+  font-size: 30px;
+  border: none;
+  bottom: 1000px;
+}
+.about-buttoncontact{
+  background-color: rgb(83, 114, 219);
+  position: relative;
+  width: 300px;
+  height: 90px;
+  font-size: 30px;
+  border: none;
+  bottom: 500px;
+}
+.home-pagecontact{
+  background-color: rgb(83, 114, 219);
+  position: relative;
+  width: 300px;
+  height: 90px;
+  font-size: 30px;
+  border: none;
+  bottom: 500px;
+}
+.our-motivescontact{
+  background-color: rgb(83, 114, 219);
+  position: relative;
+  width: 300px;
+  height: 90px;
+  font-size: 30px;
+  border: none;
+  bottom: 500px;
+}
+.home-pageservice{
+  background-color: rgb(83, 114, 219);
+  position: relative;
+  width: 300px;
+  height: 90px;
+  font-size: 30px;
+  border: none;
+  bottom: 500px;
+}
+.about-buttonservice{
+  background-color: rgb(83, 114, 219);
+  position: relative;
+  width: 300px;
+  height: 90px;
+  font-size: 30px;
+  border: none;
+  bottom: 500px;
+}
+.contactservice{
+  background-color: rgb(83, 114, 219);
+  position: relative;
+  width: 300px;
+  height: 90px;
+  font-size: 30px;
+  border: none;
+  bottom: 500px;
+}
+.about{
+  position: relative;
+  text-align: center;
+}
+.aboutbody{
+  position: relative;
+  min-height: 1px;
+}
